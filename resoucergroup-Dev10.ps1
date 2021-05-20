@@ -1,0 +1,1 @@
+﻿New-AzResourceGroup -Location westus2 -Name 'Dev11'
