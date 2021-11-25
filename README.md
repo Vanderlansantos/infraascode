@@ -3,4 +3,4 @@ Criação de objetos no azure via linha de comando através do azuredevops, util
 
 1° Criar o resource group n o azure.
 
-2° Criar uma maquina virtual(VM) ubunto, alocada no resource group criado no passo 1. 
+2° Criar uma maquina virtual(VM) ubuntu, alocada no resource group criado no 1° passo.
